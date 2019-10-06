@@ -1,2 +1,6 @@
-# gitbook-markdown
-Learn markdown 
+# MarkDown 自学教程
+
+学习markdown语法，并尝试整理记录，大概是一本让你从不懂到装懂的书。
+
+本教程主要整理markdown的一些知识点以及在互联网上找到的一些小知识。
+
